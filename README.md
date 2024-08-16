@@ -2,8 +2,8 @@
 
 ### About Me:
 - He/Him
-- BS Data Science Student @ [Mapua University](https://www.mapua.edu.ph/)
-- [Discord](https://discord.com) and [Facebook Messenger](https://www.messenger.com) Bot Developer
+- BS Data Science Graduate from [Mapua University](https://www.mapua.edu.ph/)
+- MS Data Science Student at [Asian Institute of Management](https://aim.edu/)
 
 ### Programming Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -12,3 +12,7 @@
 - [PHP](https://www.php.net/manual/en/intro-whatis.php)
 - [Python](https://www.python.org/doc/essays/blurb/)
 - [R](https://www.r-project.org/about.html)
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/karl-aldous-banaag-4a2864209/)
+- [Mail](mailto:karl.aldous.banaag@gmail.com)
